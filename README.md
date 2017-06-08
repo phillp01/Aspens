@@ -2,6 +2,7 @@ Aspens Interview Task 1
 ===================
 
 **Problem**
+
 We have just received a requirement from a client where we need to import and upload a CSV file of students into an Aspens Controlled system and then searched. This list of students (once imported) needs to be able to be searched by student name and class name. This is to allow them to create print outs of various student information based upon that search criteria.
 
 
@@ -11,5 +12,9 @@ Given some more time to play with this I would create a dropdown selection box o
 
 A database called 'Aspens' will need to be created and the .sql script can then be applied to create the required schema.
 Once this is done the relevant credentials need to be added to the dbConnect.php file.
+
+
+A working version of this can bee seen at : **http://www.paulphillips.co.uk/aspens**
+
 
 # Aspens
